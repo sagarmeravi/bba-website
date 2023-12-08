@@ -1,0 +1,43 @@
+.top_img{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    border-radius: 10px;
+}
+.cardmain{
+    display: flex;
+    justify-content: space-around;
+    gap: -10px;
+    color: #090E12;
+}
+.card{
+    border-color: #090E12;
+    background-color: rgb(254, 243, 235);
+}
+
+.headmain{
+    color:#090E12;
+}
+h2{
+    font-size: 6rem;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    background-color: rgb(254, 243, 235);
+}
+.logo{
+    float: left;
+    width: 1px;
+    height: 1px;
+
+}
+.btn-success{
+    background-color: #dbfe40;
+    color: #090E12;
+    border-color: black;
+  
+}
+
+
+    
